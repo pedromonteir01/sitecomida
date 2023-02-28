@@ -1,0 +1,63 @@
+@font-face {
+    font-family: mexican;
+    src: url(../fonts/MexicanTequila.ttf);
+}
+
+body {
+    background-color: rgb(231, 231, 95);
+}
+
+h1 {
+    text-align: center;
+    font-family: mexican;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+h2 {
+    text-align: center;
+    font-family: mexican;
+    font-size: 12,5px;
+    font-weight: 150;
+}
+
+#special_comb {
+    display: flex;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 35px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 20px;
+    vertical-align: middle;
+}
+
+div {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.combs {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: red;
+    padding: 20px;
+    margin-top: 80px;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.combs_text {
+    color: white;
+}
+
+p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    width: 80%;
+}
