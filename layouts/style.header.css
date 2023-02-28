@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: gold;
+}
+header {
+    background-color: red;
+    padding: 5px;
+    background-position: center;
+    height: 250px;
+}
+a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul {
+    float: right;
+    margin-top: 25px;
+    list-style-type: none;
+    margin-right: 475px;
+}
+ul li {
+    display: inline-block;
+}
+ul li a {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 5px 20px;
+    justify-content: center;
+}
+ul li a:hover{
+    background-color: white;
+    color: black;
+}
+
+ul li a:active{
+    color: red;
+}
+.container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: mexican;
+    src: url(../assets/fonts/MexicanTequila.ttf);
+  }
+
+h1{
+    font-family: mexican;
+    font-size: 50px;
+    font-weight: 200;
+}
