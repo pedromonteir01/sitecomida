@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(231, 231, 95);
+}
+h1{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 300px;
+}
+input{
+padding: 10px;
+margin: 10px;
+}
+
+.enviar{
+    background-color: red;
+}
+
+.enviar:hover{
+    background-color: white;
+}
+
+.enviar:active{
+    color: red;
+}
+#input_mensagem{
+    padding: 15px;
+
+}
