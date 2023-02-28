@@ -1,0 +1,111 @@
+@font-face {
+    font-family: mexican;
+    src: url(../fonts/MexicanTequila.ttf);
+  }
+
+h1{
+    font-family: mexican;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+h2{
+    font-family: mexican;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+body{
+    margin: 0%;
+    background-color: yellow;
+    font-family: verdana;
+}
+
+#members{
+    text-align: center;
+    background-color: rgb(255, 70, 70);
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(154, 154, 0);
+}
+
+
+#top{
+    text-align: center;
+}
+
+#aboutus{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 255, 84);
+    box-shadow: 5px 5px rgb(154, 154, 0);
+}
+
+.people{
+    display: flex;
+}
+
+#pedro{
+    background-color: rgb(255, 126, 126);
+    border: 2px solid black;
+    margin: 10px;
+    width: 33%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(55, 0, 0);
+
+}
+
+#pablo{
+    background-color: rgb(255, 126, 126);
+    border: 2px solid black;
+    margin: 10px;
+    width: 33%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(55, 0, 0);
+}
+
+#marcelo{
+    background-color: rgb(255, 126, 126);
+    border: 2px solid black;
+    margin: 10px;
+    width: 33%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(55, 0, 0);
+}
+
+#nathan{
+    background-color: rgb(255, 126, 126);
+    border: 2px solid black;
+    margin: 10px;
+    width: 33%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(55, 0, 0);
+}
+
+#aline{
+    background-color: rgb(255, 126, 126);
+    border: 2px solid black;
+    margin: 10px;
+    width: 33%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(55, 0, 0);
+}
+
+#lucas{
+    background-color: rgb(255, 126, 126);
+    border: 2px solid black;
+    margin: 10px;
+    width: 33%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(55, 0, 0);
+}
