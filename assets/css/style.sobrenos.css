@@ -24,7 +24,7 @@ body{
 #members{
     text-align: center;
     color: white;
-    background-color: rgb(255, 70, 70);
+    background-color: red;
     margin: 10px;
     padding: 20px;
     border: 2px solid black;
@@ -149,10 +149,6 @@ body{
     color: white;
 }
 
-.card_link {
-    
-}
-
 .card_text {
     text-decoration: none;
     color: white;
@@ -162,5 +158,10 @@ body{
 footer {
     padding: 0;
     margin: 0;
+    background-color: red;
+}
+footer{
+    padding: 0%;
+    margin: 0%;
     background-color: red;
 }
