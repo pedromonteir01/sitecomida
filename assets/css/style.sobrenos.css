@@ -59,7 +59,10 @@ body{
     height: 500px;
     text-align: center;
     box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
-
+    cursor: pointer;
+    text-decoration: none;
+    font-family: mexican;
+    color: white;
 }
 
 #pablo{
@@ -71,7 +74,14 @@ body{
     height: 500px;
     text-align: center;
     box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
     text-decoration: none;
+    font-family: mexican;
+    color: white;
+}
+
+#pablo img{
+    padding-top: 40px;
 }
 
 #marcelo{
@@ -83,6 +93,10 @@ body{
     height: 500px;
     text-align: center;
     box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    text-decoration: none;
+    font-family: mexican;
+    color: white;
 }
 
 #nathan{
@@ -90,10 +104,14 @@ body{
     color: white;
     border: 2px solid black;
     margin: 10px;
-    width: 68%;
+    width: 33%;
     height: 500px;
     text-align: center;
     box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    text-decoration: none;
+    font-family: mexican;
+    color: white;
 }
 
 
@@ -102,10 +120,18 @@ body{
     color: white;
     border: 2px solid black;
     margin: 10px;
-    width: 71%;
+    width: 33%;
     height: 500px;
     text-align: center;
     box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    text-decoration: none;
+    font-family: mexican;
+    color: white;
+}
+
+#aline img{
+    padding-top: 40px;
 }
 
 #lucas{
@@ -113,8 +139,22 @@ body{
     color: white;
     border: 2px solid black;
     margin: 10px;
-    width: 71%;
+    width: 33%;
     height: 500px;
     text-align: center;
     box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    text-decoration: none;
+    font-family: mexican;
+    color: white;
+}
+
+.card_link {
+    
+}
+
+.card_text {
+    text-decoration: none;
+    color: white;
+    font-family: verdana;
 }
