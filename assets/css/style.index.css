@@ -5,6 +5,8 @@
 
 body {
     background-color: rgb(231, 231, 95);
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -60,4 +62,24 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     width: 80%;
+}
+
+iframe {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+}
+
+
+footer {
+    background-color: red;
+    padding: 0;
+    margin: 0;
+    margin-top: 150px;
+    vertical-align: middle;
 }
