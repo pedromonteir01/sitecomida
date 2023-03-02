@@ -1,3 +1,16 @@
+@font-face {
+    font-family: mexican;
+    src: url(../assets/fonts/MexicanTequila.ttf);
+  }
+
+h1{
+    font-family: mexican;
+    font-size: 50px;
+    font-weight: 200;
+    color: yellow;
+}
+
+
 body{
     text-align: center;
     background-color: red;
@@ -6,5 +19,6 @@ body{
     padding-left: 550px;
     margin: 0;
     padding: 0;
+    font-family: mexican;
 
 }
