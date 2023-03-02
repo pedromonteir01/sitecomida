@@ -1,15 +1,10 @@
-footer{
+body{
     text-align: center;
     background-color: red;
     color: white;
     width: 100%;
-    text-align: justify;
-}
-
-footer h1{
-    padding-left: 400px;
-}
-
-footer img{
     padding-left: 550px;
+    margin: 0;
+    padding: 0;
+
 }
