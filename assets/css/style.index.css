@@ -19,7 +19,7 @@ h1 {
 h2 {
     text-align: center;
     font-family: mexican;
-    font-size: 12,5px;
+    font-size: 12, 5px;
     font-weight: 150;
 }
 
@@ -51,6 +51,9 @@ div {
     align-items: center;
     margin-left: 10px;
     margin-right: 10px;
+    -webkit-box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
+    box-shadow: 15px 8px 55px -25px rgba(0, 0, 0, 0.75);
 }
 
 .combs_text {
@@ -68,6 +71,7 @@ iframe {
     width: 100%;
     margin: 0;
     padding: 0;
+    height: 185px;
 }
 
 header {
