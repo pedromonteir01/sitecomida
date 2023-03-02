@@ -13,33 +13,37 @@ h1{
 body{
     background-color: rgb(231, 231, 95);
     margin: 0%;
-    padding: 0;
 }
 
 form{
     display: flex;
     flex-direction: column;
-    width: 50%;
-    margin-left: 300px;
+    width: 300px;
+
 }
 input{
-padding: 10px;
-margin: 20px;
+    padding: 10px;
+    margin: 20px;
+
 }
 
 .enviar{
     background-color: red;
+    text-align: center;
 }
 
 .enviar:hover{
     background-color: white;
+    text-align: center;
 }
 
 .enviar:active{
     color: red;
+    text-align: center;
 }
 #input_mensagem{
     padding: 15px;
+    text-align: center;
 
 }
 
@@ -70,3 +74,18 @@ footer{
     bottom: 0;
     height: 100%;
 }
+
+article{
+    text-align: center;
+    align-items: center;
+}
+
+#textcenter {
+    align-content: center;
+}
+
+#container {
+    margin-left: 40%;
+    margin-right: 60%;
+}
+
